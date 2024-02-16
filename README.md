@@ -1,1 +1,1 @@
-# intello.ai
+# tindog-eka
